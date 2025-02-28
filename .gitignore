@@ -1,0 +1,25 @@
+echo ".cache/
+AppData/
+*.csv
+*.xlsx
+*.exe
+*.zip
+*.docx
+*.pdf
+*.jpg
+*.png
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+*.tmp
+" > .gitignore
+".*" 
+"*.csv" 
+"*.xlsx" 
+"*.exe" 
+"*.zip" 
+"*.msi" 
+"__pycache__/" 
